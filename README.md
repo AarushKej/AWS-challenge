@@ -1,19 +1,21 @@
-# AWS-challenge
+# AWS-10-week-challenge
 
-1 created a bucket and added a static web page to the bucket  
+Week 1 Challenge: Creating Static Website  
 
-2 created a domain and certificate from the certificate manager  
+1. Created a bucket and added a static web page to the bucket  
 
-3 route 53 already created because the domain was created with aws  
+2. Created a domain and certificate from the certificate manager  
 
-4 created a record for the certificate in route 53 hosted zone  
+3. Route 53 already created because the domain was created with aws  
 
-5 created a cloudfront distribution and linked the bucket to it  
+4. Created a record for the certificate in route 53 hosted zone  
 
-6 restricted the bucket access just to the cloudfront with the OAI key  
+5. Created a cloudfront distribution and linked the bucket to it  
 
-7 added DNS name and certificate to the cloudfront  
+6. Restricted the bucket access just to the cloudfront with the OAI key  
 
-8 made it accessable only on https  
+7. Added DNS name and certificate to the cloudfront  
 
-9 once everything was created we made a record so the domain name redirected to the cloudfront url
+8. Made it accessable only on https  
+
+9. Once everything was created we made a record so the domain name redirected to the cloudfront url
