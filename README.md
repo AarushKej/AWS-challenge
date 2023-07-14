@@ -1,6 +1,6 @@
 # AWS-challenge
 
-1 created a bucket and added a static web page to the bucket 
+1 created a bucket and added a static web page to the bucket /n
 2 created a domain and certificate from the certificate manager 
 3 route 53 already created because the domain was created with aws
 4 created a record for the certificate in route 53 hosted zone
